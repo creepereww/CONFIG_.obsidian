@@ -1,0 +1,14 @@
+{
+  "accentColor": "#cc3e3e",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "realistic-highlight"
+  ],
+  "cssTheme": "Blue Topaz",
+  "nativeMenus": false,
+  "translucency": true,
+  "textFontFamily": "'霞鹜文楷 GB',微软雅黑",
+  "monospaceFontFamily": "Times New Roman",
+  "theme": "obsidian",
+  "showViewHeader": true
+}

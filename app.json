@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "./附件",
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "spellcheckLanguages": null,
+  "useTab": false,
+  "focusNewTab": false,
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true
+}
