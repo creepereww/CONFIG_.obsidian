@@ -109,12 +109,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.yuque.com/yingyu-k3wcp/rtwm0y/hk6oe8oosxeeq98u",
-                "title": "Git",
+                "url": "https://www.yuque.com/yingyu-k3wcp/rtwm0y/ukuryavwg57gla5l/edit?toc_node_uuid=cIu7gOhXKRxC-SXZ",
+                "title": "ssh",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Git"
+              "title": "ssh"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://yuanbao.tencent.com/chat/naQivTmsDa",
+                "url": "https://yuanbao.tencent.com/chat/naQivTmsDa/6c74fe04-215a-4f95-8934-a07d40115068",
                 "title": "腾讯元宝 - 轻松工作 多点生活",
                 "mode": "webview"
               },
@@ -247,9 +247,33 @@
               "icon": "globe-2",
               "title": "工作台 · 语雀"
             }
+          },
+          {
+            "id": "1d855c8ecc092ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux指令.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux指令"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -281,7 +305,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "比较器",
+                "query": "ssh",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -302,7 +326,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -473,8 +498,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9cc045687c35a475",
+  "active": "cf5acd918590fd8d",
   "lastOpenFiles": [
+    "ip.md",
+    "Linux指令.md",
     "架构.md",
     "中断.md",
     "定时器.md",
@@ -512,8 +539,6 @@
     "希腊字母.md",
     "集总电路参数.md",
     "比较器.md",
-    "单片机.md",
-    "vector.md",
     "Excalidraw",
     "附件/附件",
     "flomo.canvas",
