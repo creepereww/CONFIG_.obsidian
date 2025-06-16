@@ -146,95 +146,6 @@
             }
           },
           {
-            "id": "3a59efcb450e0706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微分方程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "微分方程"
-            }
-          },
-          {
-            "id": "883395fac052703c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微积分.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "微积分"
-            }
-          },
-          {
-            "id": "f575c0d6318e26d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "线性代数"
-            }
-          },
-          {
-            "id": "672f16cb06f9bde0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "000 网页.canvas",
-                "viewState": {
-                  "x": 15.459943068169704,
-                  "y": -37.78749999999938,
-                  "zoom": -0.509251274638703
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "000 网页"
-            }
-          },
-          {
             "id": "c70b42fb93efdbf9",
             "type": "leaf",
             "state": {
@@ -273,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -498,7 +409,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf5acd918590fd8d",
+  "active": "c70b42fb93efdbf9",
   "lastOpenFiles": [
     "ip.md",
     "Linux指令.md",
