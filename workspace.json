@@ -109,12 +109,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.yuque.com/yingyu-k3wcp/rtwm0y/cy1tqv62fbz4lclf/edit?toc_node_uuid=UdWiBM9MEzYzQcZE",
-                "title": "无标题文档",
+                "url": "https://www.yuque.com/yingyu-k3wcp/rtwm0y/hk6oe8oosxeeq98u",
+                "title": "Git",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "无标题文档"
+              "title": "Git"
+            }
+          },
+          {
+            "id": "8d9d6fcd36cfecb0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://curl.se/docs/caextract.html",
+                "title": "curl - Extract CA Certs from Mozilla",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "curl - Extract CA Certs from Mozilla"
             }
           },
           {
